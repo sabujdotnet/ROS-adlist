@@ -6,14 +6,15 @@
 ::1 localhost
 fe80::1%lo0 localhost
 ::1  localhost
-20.20.200.20 sabujdotnet.bd
+20.20.200.20 1plus.net.arpa
 
 #[sabujdotnet]
 127.0.0.1 doubleclick.google.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 clients2.google.com
+127.0.0.1 clients1.google.com
 127.0.0.1 rr2---sn-n5wpqug5qpob-q5jl.googlevideo.com
-127.0.0.1 yt3.ggpht.com
+#127.0.0.1 yt3.ggpht.com
 127.0.0.1 adaggreg-ali.shalltry.com.www.tendawifi.com
 127.0.0.1 adservices.google.com
 127.0.0.1 adx-f.ads.heytapmobile.com.www.tendawifi.com
@@ -128,10 +129,8 @@ fe80::1%lo0 localhost
 127.0.0.1 prod.pw.analytics.console.aws.a2z.com
 127.0.0.1 metrics.client-eng.a2z.com
 127.0.0.1 global.telemetry.insights.video.a2z.com
-
 # [a3cloud.net]
 127.0.0.1 segment.a3cloud.net
-
 # [a8.net]
 127.0.0.1 a8.net
 127.0.0.1 iad.g.163.com
@@ -222,19 +221,14 @@ fe80::1%lo0 localhost
 127.0.0.1 prod.pw.analytics.console.aws.a2z.com
 127.0.0.1 metrics.client-eng.a2z.com
 127.0.0.1 global.telemetry.insights.video.a2z.com
-
 # [a3cloud.net]
 127.0.0.1 segment.a3cloud.net
-
 # [a8.net]
 127.0.0.1 a8.net
-
 # [aa.com]
 127.0.0.1 smetrics.aa.com
-
 # [aamapi.com]
 127.0.0.1 aamapi.com
-
 # [aamsitecertifier.com]
 127.0.0.1 aamcf.aamsitecertifier.com
 # [aarki.net]
@@ -265,16 +259,12 @@ fe80::1%lo0 localhost
 127.0.0.1 ariane.abtasty.com
 127.0.0.1 dcinfos-cache.abtasty.com
 127.0.0.1 sr-tag.abtasty.com
-
 # [accengage.com]
 127.0.0.1 pingapi.accengage.com
-
 # [accengage.net]
 127.0.0.1 daraz-by.accengage.net
-
 # [accesstrade.vn]
 127.0.0.1 static.accesstrade.vn
-
 # [acmeaom.com]
 127.0.0.1 tags.acmeaom.com
 
