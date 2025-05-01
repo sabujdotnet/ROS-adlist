@@ -22,6 +22,10 @@ fe80::1%lo0 localhost
 127.0.0.1 ads.shtranssion.com
 127.0.0.1 ads-inmobi-comtm.trafficmanager.net
 127.0.0.1 ads.color4nia.com
+127.0.0.2 ads.inmobi.com
+127.0.0.2 ads.facebook.com
+127.0.0.2 adelement.com
+127.0.0.2 international.ovs.sg.tengine.ingress.alibabacorp.com
 127.0.0.1 lh3.google.com
 127.0.0.1 android.apis.google.com
 127.0.0.1 ttb.m.bestadprof.com
