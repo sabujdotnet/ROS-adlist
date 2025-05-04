@@ -11,7 +11,7 @@ fe80::1%lo0 localhost
 #[sabujdotnet]
 127.0.0.1 doubleclick.google.com
 127.0.0.1 www.googleadservices.com
-#127.0.0.1 clients2.google.com
+127.0.0.1 clients2.google.com
 #127.0.0.1 clients1.google.com
 127.0.0.1 rr2---sn-n5wpqug5qpob-q5jl.googlevideo.com
 #127.0.0.1 yt3.ggpht.com
