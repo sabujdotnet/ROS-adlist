@@ -1,4 +1,4 @@
-# Last converted - Thu, 06 May 2025 06:21:18 +0000
+# Last converted - 10 May 2025 06:21:18 +0000
 #allowed
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -50,6 +50,9 @@ fe80::1%lo0 localhost
 127.0.0.1 beacons2.gvt2.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 optimizationguide-pa.googleapis.com
+127.0.0.1 userlocation.googleapis.com
+127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 app-measurement.com
 127.0.0.2 metrics-drcn.dt.hihonorcloud.com
 127.0.0.2 metrics.dt.hihonorcloud.com
