@@ -1,4 +1,4 @@
-# Last converted - 10 May 2025 06:21:18 +0000
+# Last converted - 24 October 2025 06:21:18 +0000
 #allowed
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -7,9 +7,60 @@
 ::1 localhost
 fe80::1%lo0 localhost
 ::1  localhost
-20.20.200.20 www.1plusnet.me
+20.20.200.20 
 
 #[sabujdotnet]
+@@||root-servers.net^
+@@||log.snssdk.com^
+!rule@@||apmplus.volces.com^
+||suggestqueries.google.com^
+@@||vcs.snssdk.com^
+@@||html-load.com^
+@@||errors.infinityfree.net^
+||91874B54-E5EB-497B-BCE3-B13A6FA1D6EB-netseer-ipaddr-assoc.xz.fbcdn.net^
+@@||web.facebook.com^
+||xp.apple.com^
+@@||a.realsrvcdn.com^
+@@||a.nel.cloudflare.com^
+@@||cdn77.aj2532.bid^
+@@||acscdn.com^
+||aloc-control-plus.amap.com^
+||edgedl.me.gvt1.com^
+||rr1---sn-n2xxq-q5je.googlevideo.com^
+||105.185.233.64.in-addr.arpa^
+||clients2.google.com^
+||rr3---sn-n2xxq-q5je.googlevideo.com^
+||rr1---sn-n2xxq-q5js.googlevideo.com^
+||apm.yun.hihonor.com^
+||www.baidu.com^
+||Ep\00000u-dnsotls-ds.metric.gstatic.com^
+||remoteconfig-dre.platform.hihonorcloud.com^
+||apm-sg.yun.hihonor.com^
+||metrics-basecloud-drcn.dt.hihonorcloud.com^
+||clients4.google.com^
+||rr2---sn-n5wpqug5qpob-q5js.googlevideo.com^
+||rr1---sn-n2xxq-q5j6.googlevideo.com^
+||logservice-drcn.dt.hihonorcloud.com^
+||rr1---sn-n5wpqug5qpob-q5js.googlevideo.com^
+@@||s.youtube.com^
+||rr3---sn-n2xxq-q5j6.googlevideo.com^
+||space-drcn.cloud.hihonorcloud.com^
+||b-graph.facebook.com^
+||mbd.baidu.com^
+||edge-mqtt.facebook.com^
+||graph.facebook.com^
+||rr2---sn-n2xxq-q5j6.googlevideo.com^
+||rr5---sn-n2xxq-q5jz.googlevideo.com^
+||rr5---sn-n2xxq-q5je.googlevideo.com^
+||rr4---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||honor.zuimeitianqi.com^
+||rr6---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||rr3---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||apm-ap.yun.hihonor.com^
+||dl.google.com^
+||www.google.com^
+||android.apis.google.com^
+#🔺🔺🔺Adguard Home 🔺🔺🔺🔺
 127.0.0.1 doubleclick.google.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 clients2.google.com
