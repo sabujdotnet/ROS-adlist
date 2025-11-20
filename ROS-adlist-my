@@ -8,31 +8,24 @@
 fe80::1%lo0 localhost
 ::1  localhost
 
-
-#[sabujdotnet]
+#[sabujdotnet-yt ads-BD]
+@@||api.chatgpt.io^
+||confineaugment.com^
+@@||vercel.com^
+@@||vercel.app^
 @@||root-servers.net^
-@@||log.snssdk.com^
-!rule@@||apmplus.volces.com^
+||apmplus.volces.com^
 ||suggestqueries.google.com^
-@@||vcs.snssdk.com^
-@@||html-load.com^
-@@||errors.infinityfree.net^
 ||91874B54-E5EB-497B-BCE3-B13A6FA1D6EB-netseer-ipaddr-assoc.xz.fbcdn.net^
-@@||web.facebook.com^
-||xp.apple.com^
-@@||a.realsrvcdn.com^
 @@||a.nel.cloudflare.com^
-@@||cdn77.aj2532.bid^
-@@||acscdn.com^
 ||aloc-control-plus.amap.com^
-||edgedl.me.gvt1.com^
 ||rr1---sn-n2xxq-q5je.googlevideo.com^
 ||105.185.233.64.in-addr.arpa^
 ||clients2.google.com^
 ||rr3---sn-n2xxq-q5je.googlevideo.com^
 ||rr1---sn-n2xxq-q5js.googlevideo.com^
 ||apm.yun.hihonor.com^
-||.baidu.com^
+||www.baidu.com^
 ||Ep\00000u-dnsotls-ds.metric.gstatic.com^
 ||remoteconfig-dre.platform.hihonorcloud.com^
 ||apm-sg.yun.hihonor.com^
@@ -56,12 +49,58 @@ fe80::1%lo0 localhost
 ||rr6---sn-n5wpqug5qpob-q5je.googlevideo.com^
 ||rr3---sn-n5wpqug5qpob-q5je.googlevideo.com^
 ||apm-ap.yun.hihonor.com^
-@@||android.apis.google.com^
+||dl.google.com^
+||android.apis.google.com^
+||remoteconfig-drcn.platform.hihonorcloud.com^
+||r3---sn-qxaelned.googlevideo.com^
+||rr2---sn-n5wpqug5qpob-q5jl.googlevideo.com^
+@@||s.youtube.com^
+||stackoverflow.com^
+@@||sessions.bugsnag.com^
+||rr3---sn-n5wpqug5qpob-q5js.googlevideo.com^
+@@||deliver.ptgncdn.com^
+||intellipopup.com^
+||tsyndicate.com^
+||www.earnstations.com^
+||rr2---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||r5---sn-qxaeenlk.googlevideo.com^
+||rr3---sn-n2xxq-q5jz.googlevideo.com^
+||play-fe.googleapis.com^
+||rr5---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||rr4---sn-n2xxq-q5jl.googlevideo.com^
+||rr2---sn-n2xxq-q5je.googlevideo.com^
+||honorboard-drcn.hihonorcdn.com^
+||r2---sn-npoe7nlz.googlevideo.com^
+||rr4---sn-n5wpqug5qpob-q5js.googlevideo.com^
+||r4---sn-qxaeenlr.googlevideo.com^
+||r4---sn-qxaeen7l.googlevideo.com^
+||rr5---sn-n5wpqug5qpob-q5js.googlevideo.com^
+||rr5---sn-n2xxq-q5jl.googlevideo.com^
+||rr2---sn-n2xxq-q5jz.googlevideo.com^
+||rr1---sn-n2xxq-q5jz.googlevideo.com^
+||edgedl.me.gvt1.com^
+||rr1---sn-qxaelnel.googlevideo.com^
+||rr4---sn-n2xxq-q5j6.googlevideo.com^
+||r2---sn-qxaelne6.googlevideo.com^
+||r5---sn-qxaelnel.googlevideo.com^
+||r2---sn-qxaelnek.googlevideo.com^
+||rr5---sn-n2xxq-q5j6.googlevideo.com^
+||rr6---sn-n2xxq-q5jl.googlevideo.com^
+||i9.ytimg.com^
+||rr1---sn-n5wpqug5qpob-q5jl.googlevideo.com^
+||r2---sn-qxa7sn7r.googlevideo.com^
+||r5---sn-qxaeenlz.googlevideo.com^
+||r4---sn-qxaelnel.googlevideo.com^
+@@||metrics-drcn.dt.hihonorcloud.com^
+||rr2---sn-n2xxq-q5jl.googlevideo.com^
+||r5---sn-qxaelne6.googlevideo.com^
+||r2---sn-qxa7snee.googlevideo.com^
+||r1---sn-qxa7snee.googlevideo.com^
 #🔺🔺🔺Adguard Home 🔺🔺🔺🔺
 127.0.0.1 doubleclick.google.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 clients2.google.com
-#127.0.0.1 clients1.google.com
+127.0.0.1 clients1.google.com
 127.0.0.1 rr2---sn-n5wpqug5qpob-q5jl.googlevideo.com
 127.0.0.1 adaggreg-ali.shalltry.com.www.tendawifi.com
 127.0.0.1 adservices.google.com
