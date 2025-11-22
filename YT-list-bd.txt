@@ -1,0 +1,204 @@
+#[sabujdotnet-yt ads-BD]
+||confineaugment.com^
+||apmplus.volces.com^
+||91874B54-E5EB-497B-BCE3-B13A6FA1D6EB-netseer-ipaddr-assoc.xz.fbcdn.net^
+||aloc-control-plus.amap.com^
+||rr1---sn-n2xxq-q5je.googlevideo.com^
+||105.185.233.64.in-addr.arpa^
+||clients2.google.com^
+||rr3---sn-n2xxq-q5je.googlevideo.com^
+||rr1---sn-n2xxq-q5js.googlevideo.com^
+||apm.yun.hihonor.com^
+||www.baidu.com^
+||Ep\00000u-dnsotls-ds.metric.gstatic.com^
+||remoteconfig-dre.platform.hihonorcloud.com^
+||apm-sg.yun.hihonor.com^
+||metrics-basecloud-drcn.dt.hihonorcloud.com^
+||clients4.google.com^
+||rr2---sn-n5wpqug5qpob-q5js.googlevideo.com^
+||rr1---sn-n2xxq-q5j6.googlevideo.com^
+||logservice-drcn.dt.hihonorcloud.com^
+||rr1---sn-n5wpqug5qpob-q5js.googlevideo.com^
+||rr3---sn-n2xxq-q5j6.googlevideo.com^
+||space-drcn.cloud.hihonorcloud.com^
+||mbd.baidu.com^
+||rr2---sn-n2xxq-q5j6.googlevideo.com^
+||rr5---sn-n2xxq-q5jz.googlevideo.com^
+||rr5---sn-n2xxq-q5je.googlevideo.com^
+||rr4---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||honor.zuimeitianqi.com^
+||rr6---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||rr3---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||apm-ap.yun.hihonor.com^
+||remoteconfig-drcn.platform.hihonorcloud.com^
+||r3---sn-qxaelned.googlevideo.com^
+||rr2---sn-n5wpqug5qpob-q5jl.googlevideo.com^
+||stackoverflow.com^
+||rr3---sn-n5wpqug5qpob-q5js.googlevideo.com^
+||intellipopup.com^
+||tsyndicate.com^
+||www.earnstations.com^
+||rr2---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||r5---sn-qxaeenlk.googlevideo.com^
+||rr3---sn-n2xxq-q5jz.googlevideo.com^
+||rr5---sn-n5wpqug5qpob-q5je.googlevideo.com^
+||rr4---sn-n2xxq-q5jl.googlevideo.com^
+||rr2---sn-n2xxq-q5je.googlevideo.com^
+||honorboard-drcn.hihonorcdn.com^
+||r2---sn-npoe7nlz.googlevideo.com^
+||rr4---sn-n5wpqug5qpob-q5js.googlevideo.com^
+||r4---sn-qxaeenlr.googlevideo.com^
+||r4---sn-qxaeen7l.googlevideo.com^
+||rr5---sn-n5wpqug5qpob-q5js.googlevideo.com^
+||rr5---sn-n2xxq-q5jl.googlevideo.com^
+||rr2---sn-n2xxq-q5jz.googlevideo.com^
+||rr1---sn-n2xxq-q5jz.googlevideo.com^
+||rr1---sn-qxaelnel.googlevideo.com^
+||rr4---sn-n2xxq-q5j6.googlevideo.com^
+||r2---sn-qxaelne6.googlevideo.com^
+||r5---sn-qxaelnel.googlevideo.com^
+||r2---sn-qxaelnek.googlevideo.com^
+||rr5---sn-n2xxq-q5j6.googlevideo.com^
+||rr6---sn-n2xxq-q5jl.googlevideo.com^
+||rr1---sn-n5wpqug5qpob-q5jl.googlevideo.com^
+||r2---sn-qxa7sn7r.googlevideo.com^
+||r5---sn-qxaeenlz.googlevideo.com^
+||r4---sn-qxaelnel.googlevideo.com^
+#@@||metrics-drcn.dt.hihonorcloud.com^
+||rr2---sn-n2xxq-q5jl.googlevideo.com^
+||r5---sn-qxaelne6.googlevideo.com^
+||r2---sn-qxa7snee.googlevideo.com^
+||r1---sn-qxa7snee.googlevideo.com^
+#🔺🔺🔺Adguard Home 🔺🔺🔺🔺
+0.0.0.0 apmplus.volces.com^
+0.0.0.0 91874B54-E5EB-497B-BCE3-B13A6FA1D6EB-netseer-ipaddr-assoc.xz.fbcdn.net^
+0.0.0.0 aloc-control-plus.amap.com^
+0.0.0.0 rr1---sn-n2xxq-q5je.googlevideo.com^
+0.0.0.0 105.185.233.64.in-addr.arpa^
+0.0.0.0 clients2.google.com^
+0.0.0.0 rr3---sn-n2xxq-q5je.googlevideo.com^
+0.0.0.0 rr1---sn-n2xxq-q5js.googlevideo.com^
+0.0.0.0 apm.yun.hihonor.com^
+0.0.0.0 www.baidu.com^
+0.0.0.0 Ep\00000u-dnsotls-ds.metric.gstatic.com^
+0.0.0.0 remoteconfig-dre.platform.hihonorcloud.com^
+0.0.0.0 apm-sg.yun.hihonor.com^
+0.0.0.0 metrics-basecloud-drcn.dt.hihonorcloud.com^
+0.0.0.0 clients4.google.com^
+0.0.0.0 rr2---sn-n5wpqug5qpob-q5js.googlevideo.com^
+0.0.0.0 rr1---sn-n2xxq-q5j6.googlevideo.com^
+0.0.0.0 logservice-drcn.dt.hihonorcloud.com^
+0.0.0.0 rr1---sn-n5wpqug5qpob-q5js.googlevideo.com^
+0.0.0.0 rr3---sn-n2xxq-q5j6.googlevideo.com^
+0.0.0.0 space-drcn.cloud.hihonorcloud.com^
+0.0.0.0 mbd.baidu.com^
+0.0.0.0 rr2---sn-n2xxq-q5j6.googlevideo.com^
+0.0.0.0 rr5---sn-n2xxq-q5jz.googlevideo.com^
+0.0.0.0 rr5---sn-n2xxq-q5je.googlevideo.com^
+0.0.0.0 rr4---sn-n5wpqug5qpob-q5je.googlevideo.com^
+0.0.0.0 honor.zuimeitianqi.com^
+0.0.0.0 rr6---sn-n5wpqug5qpob-q5je.googlevideo.com^
+0.0.0.0 rr3---sn-n5wpqug5qpob-q5je.googlevideo.com^
+0.0.0.0 apm-ap.yun.hihonor.com
+0.0.0.0 remoteconfig-drcn.platform.hihonorcloud.com^
+0.0.0.0 r3---sn-qxaelned.googlevideo.com^
+0.0.0.0 rr2---sn-n5wpqug5qpob-q5jl.googlevideo.com^
+0.0.0.0 stackoverflow.com^
+0.0.0.0 sessions.bugsnag.com^
+0.0.0.0 rr3---sn-n5wpqug5qpob-q5js.googlevideo.com^
+0.0.0.0 deliver.ptgncdn.com^
+0.0.0.0 intellipopup.com^
+0.0.0.0 tsyndicate.com^
+0.0.0.0 www.earnstations.com^
+0.0.0.0 rr2---sn-n5wpqug5qpob-q5je.googlevideo.com^
+0.0.0.0 r5---sn-qxaeenlk.googlevideo.com^
+0.0.0.0 rr3---sn-n2xxq-q5jz.googlevideo.com^
+0.0.0.0 rr5---sn-n5wpqug5qpob-q5je.googlevideo.com^
+0.0.0.0 rr4---sn-n2xxq-q5jl.googlevideo.com^
+0.0.0.0 rr2---sn-n2xxq-q5je.googlevideo.com^
+0.0.0.0 honorboard-drcn.hihonorcdn.com^
+0.0.0.0 r2---sn-npoe7nlz.googlevideo.com^
+0.0.0.0 rr4---sn-n5wpqug5qpob-q5js.googlevideo.com^
+0.0.0.0 r4---sn-qxaeenlr.googlevideo.com^
+0.0.0.0 r4---sn-qxaeen7l.googlevideo.com^
+0.0.0.0 rr5---sn-n5wpqug5qpob-q5js.googlevideo.com^
+0.0.0.0 rr5---sn-n2xxq-q5jl.googlevideo.com^
+0.0.0.0 rr2---sn-n2xxq-q5jz.googlevideo.com^
+0.0.0.0 rr1---sn-n2xxq-q5jz.googlevideo.com^
+0.0.0.0 rr1---sn-qxaelnel.googlevideo.com^
+0.0.0.0 rr4---sn-n2xxq-q5j6.googlevideo.com^
+0.0.0.0 r2---sn-qxaelne6.googlevideo.com^
+0.0.0.0 r5---sn-qxaelnel.googlevideo.com^
+0.0.0.0 r2---sn-qxaelnek.googlevideo.com^
+0.0.0.0 rr5---sn-n2xxq-q5j6.googlevideo.com^
+0.0.0.0 rr6---sn-n2xxq-q5jl.googlevideo.com^
+0.0.0.0 rr1---sn-n5wpqug5qpob-q5jl.googlevideo.com^
+0.0.0.0 r2---sn-qxa7sn7r.googlevideo.com^
+0.0.0.0 r5---sn-qxaeenlz.googlevideo.com^
+0.0.0.0 r4---sn-qxaelnel.googlevideo.com^
+0.0.0.0 metrics-drcn.dt.hihonorcloud.com^
+0.0.0.0 rr2---sn-n2xxq-q5jl.googlevideo.com^
+0.0.0.0 r5---sn-qxaelne6.googlevideo.com^
+0.0.0.0 r2---sn-qxa7snee.googlevideo.com^
+0.0.0.0 r1---sn-qxa7snee.googlevideo.com^
+127.0.0.1 doubleclick.google.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 clients2.google.com
+127.0.0.1 rr2---sn-n5wpqug5qpob-q5jl.googlevideo.com
+127.0.0.1 adaggreg-ali.shalltry.com.www.tendawifi.com
+127.0.0.1 adservices.google.com
+127.0.0.1 adx-f.ads.heytapmobile.com.www.tendawifi.com
+127.0.0.1 adscool.net
+127.0.0.1 ads.shtranssion.com
+127.0.0.1 ads-inmobi-comtm.trafficmanager.net
+127.0.0.2 ads.inmobi.com
+127.0.0.2 ads.facebook.com
+127.0.0.2 adelement.com
+127.0.0.2 international.ovs.sg.tengine.ingress.alibabacorp.com
+127.0.0.1 ttb.m.bestadprof.com
+127.0.0.1 odi6.online
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ads.google.com
+127.0.0.1 ads-drcn.platform.hihonorcdn.com
+127.0.0.1 clients4.google.com
+127.0.0.1 clients3.google.com
+127.0.0.1 b1.nel.goog
+127.0.0.1 118a-num.teddymobile.cn
+#127.0.0.1 grs.hihonorcloud.com
+127.0.0.1 sofire.baidu.com
+127.0.0.1 logservice-drcn.dt.hihonorcloud.com
+#127.0.0.1 gvt2.comapi.sec.intl.miui.com
+127.0.0.1 api.ad.intl.xiaomi.com
+127.0.0.1 beacons5.gvt3.com
+127.0.0.1 beacons4.gvt2.com
+127.0.0.1 beacons3.gvt2.com
+127.0.0.1 beacons2.gvt2.com
+127.0.0.1 beacons.gvt2.com
+#127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 googleads.g.doubleclick.net
+
+# AdguardMobileAds800
+0.0.0.0 adx-open-service.youku.com
+0.0.0.0 ad.youku.com
+0.0.0.0 ykad-data.youku.com
+0.0.0.0 cad.youku.com
+0.0.0.0 dad-api.dcard.tw
+0.0.0.0 ad-splash-tracking.hktvmall.com
+0.0.0.0 ad-splash.hktvmall.com
+0.0.0.0 advil.waze.com
+0.0.0.0 s-adx.op-mobile.opera.com
+0.0.0.0 s.adx.opera.com
+0.0.0.0 ketchapp.org
+0.0.0.0 cdn-ketchapp.akamaized.net
+0.0.0.0 sspapi-prd.samsungrs.com
+0.0.0.0 admin.appnext.com
+0.0.0.0 global.appnext.com
+0.0.0.0 cdn.appnext.com
+0.0.0.0 api.appnxt.net
+0.0.0.0 apis.appnxt.net
+0.0.0.0 banners-slb.mobile.yandex.net
+0.0.0.0 banners.mobile.yandex.net
+0.0.0.0 app.ssp.yahoo.com
+0.0.0.0 m.yap.yahoo.com
+0.0.0.0 mimicromax.com
+0.0.0.0 bi.yeshen.com
